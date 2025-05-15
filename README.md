@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mano</h1>
-<h3 align="center">Quietly obsessed with Machine Learning</h3>
 
 - 🔭 I’m currently working on **ASR for Atypical Speech**
 
