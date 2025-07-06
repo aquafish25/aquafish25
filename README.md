@@ -2,6 +2,3 @@
 
 >>> I’m **Manogna**  
 >>> 🎓 Postgrad student @IIIT-Delhi
-
-**Not there yet,**  
-**but already far from before.**
