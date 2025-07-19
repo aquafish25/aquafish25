@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img align='right' src="assets/github.png" width="350" alt="quiet progress"/>
+### Hi there! 
 
 >>> I’m **Manogna**  
 >>> 🎓 Postgrad student @IIIT-Delhi
